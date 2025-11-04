@@ -29,3 +29,29 @@ A brief description of your project here. Explain what the project does, its pur
 
 ## Project Structure
 
+
+---
+
+## Prerequisites
+
+Before running the project, make sure you have:
+
+- [Node.js](https://nodejs.org/) (v18 or higher recommended)
+- [npm](https://www.npmjs.com/) (comes with Node.js)
+- Git
+
+---
+
+## Installation
+
+Follow these steps to set up the project locally:
+
+```bash
+# Clone the repository
+git clone https://github.com/DhruvinP99/SWE_Project.git
+
+# Go into the project directory
+cd SWE_Project
+
+# Install dependencies
+npm install
