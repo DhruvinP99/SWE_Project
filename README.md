@@ -29,6 +29,18 @@ A brief description of your project here. Explain what the project does, its pur
 
 ## Project Structure
 
+COMP_330/project/
+├── node_modules/ # Node.js packages installed by npm
+├── public/ # Static files (HTML, CSS, images)
+├── src/ # Source code
+│ ├── components/ # UI components for the app
+│ ├── pages/ # Pages like Dashboard, Reports, Add Transaction
+│ ├── App.js # Main app component
+│ └── index.js # Entry point for the React app
+├── package.json # Project metadata & scripts
+├── README.md # Project documentation
+├── .gitignore # Ignored files
+└── LICENSE # MIT License
 
 ---
 
