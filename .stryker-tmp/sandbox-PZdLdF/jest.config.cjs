@@ -1,0 +1,11 @@
+/** @type {import('jest').Config} */
+// @ts-nocheck
+
+module.exports = {
+  preset: 'ts-jest',
+  testEnvironment: 'jest-environment-jsdom',
+  moduleFileExtensions: ['ts', 'tsx', 'js', 'jsx'],
+  transform: {
+    '^.+\\.(ts|tsx)$': 'ts-jest',
+  },
+};
