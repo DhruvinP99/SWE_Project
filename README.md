@@ -14,8 +14,7 @@ This is a **Personal Finance Tracker** application built with **React** (fronten
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ---
 
@@ -77,14 +76,14 @@ Once the setup is complete, you can start using the Finance Tracker by running:
 
 ```bash
 npm start
+```
+## 💡 How to Use:
 
-💡 How to Use:
+- ** Add a Transaction: Click on “Add Transaction” and enter details such as category, amount, and description.
 
-Add a Transaction: Click on “Add Transaction” and enter details such as category, amount, and description.
+- ** View Dashboard: The dashboard displays your total income, expenses, and current balance in real time.
 
-View Dashboard: The dashboard displays your total income, expenses, and current balance in real time.
+- ** Analyze Reports: Navigate to the Reports page to view charts and graphs summarizing your financial activity.
 
-Analyze Reports: Navigate to the Reports page to view charts and graphs summarizing your financial activity.
-
-Filter or Search: Use filters to view specific transactions or analyze by category/date.
+- ** Filter or Search: Use filters to view specific transactions or analyze by category/date.
 
