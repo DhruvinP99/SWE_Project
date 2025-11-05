@@ -28,7 +28,7 @@ This is a **Personal Finance Tracker** application built with **React** (fronten
 ---
 
 ## Project Structure 📁
-
+```
 COMP_330/project/
 ├── node_modules/       # Node.js packages installed by npm
 ├── public/             # Static files (HTML, CSS, images)
@@ -41,7 +41,7 @@ COMP_330/project/
 ├── README.md           # Project documentation
 ├── .gitignore          # Files/folders ignored by Git
 └── LICENSE             # MIT License
-
+```
 ---
 
 ## Prerequisites ⚙️
