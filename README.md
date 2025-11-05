@@ -67,3 +67,24 @@ cd SWE_Project
 
 # Install dependencies
 npm install
+
+#App run
+npm run dev
+
+## Usage
+
+Once the setup is complete, you can start using the Finance Tracker by running:
+
+```bash
+npm start
+
+💡 How to Use:
+
+Add a Transaction: Click on “Add Transaction” and enter details such as category, amount, and description.
+
+View Dashboard: The dashboard displays your total income, expenses, and current balance in real time.
+
+Analyze Reports: Navigate to the Reports page to view charts and graphs summarizing your financial activity.
+
+Filter or Search: Use filters to view specific transactions or analyze by category/date.
+
